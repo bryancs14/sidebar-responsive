@@ -121,6 +121,7 @@ body {
 .sidebar__item {
 	text-align: center;
 	padding: 20px;
+    cursor: pointer;
 }
 
 .sidebar__item:hover {
